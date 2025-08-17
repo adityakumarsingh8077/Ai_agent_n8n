@@ -1,4 +1,4 @@
-FROM n8n:latest
+FROM n8nio/n8n:latest
 
 # Set the user to be root so we can install packages
 USER root
